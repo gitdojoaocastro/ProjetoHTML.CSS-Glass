@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+#conteudo {
+	width: 1000px;
+	margin-top: 10px;
+	margin-left: 80px;
+	margin-bottom: 50px;
+}
+
+#frame-spec {
+	width: 415px;
+	height: 300px;
+	margin-left: 80px;
+	margin-top: 50px;
+	border: none;
+}
+
